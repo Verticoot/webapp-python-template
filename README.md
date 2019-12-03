@@ -9,7 +9,11 @@ Qualsiasi cosa tu voglia creare, puoi usare questo template!
 
 ### Passi
 1. fare il fork di questo progetto usando il proprio account
-1. modificare questa pagina, aggiungendo una breve descrizione di cosa deve fare l'applicazione, possibilmente usando le storie utente
+1. modificare questa pagina, aggiungendo una breve descrizione di cosa deve fare l'applicazione, possibilmente 
+usando le storie utente
+
+1. --> L' utente premendo sull' url potra ascoltare una playlist fatta da me con le canzoni che ascolto di solito
+
 1. modificare il file something.py, in modo che generi dei dati per l'applicazione
 1. scrivere la pagina HTML per visualizzazione dei dati
 1. eseguire il web server `flask` e controllare che tutto funzioni correttamente.
