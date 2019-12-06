@@ -7,10 +7,8 @@ class Song:
         self.lenght = lenght
         self.year = year
 
-song_1 = Song("Costa Tanto", "Mambo Losca", "Tony EFFE", "Arte", 3.30, 2019) 
-song_2 =
-song_3 =
-
-
+song_1 = Song("BASSOTTO", "DPG", "", "BASSOTTO", 1.58, 2019) 
+song_2 = Song("LIVIN' LA VIDA LOCA", "RICKY MARTIN", "", "", 4.03, 1999)
+song_3 = Song("SW1N6O", "Tha Supreme", "Salmo", "236451", 3.04, 2019)
 
 songlist = [song_1, song_2, song_3]
