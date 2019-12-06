@@ -1,10 +1,10 @@
 class Song:
-    def __init__(self, title, author, feat, album, lenght, year):
+    def __init__(self, title, author, feat, album, length, year):
         self.title = title
         self.author = author
         self.feat = feat
         self.album = album
-        self.lenght = lenght
+        self.length = length
         self.year = year
 
 song_1 = Song("BASSOTTO", "DPG", "", "BASSOTTO", 1.58, 2019) 
